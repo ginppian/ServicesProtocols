@@ -1,7 +1,7 @@
 Servicios con protocolos en Swift
 ===
 
-<p align="justify">
+<p align="center">
 	<img src="imgs/img1.png" width="719px" height="622px">
 </p>
 
